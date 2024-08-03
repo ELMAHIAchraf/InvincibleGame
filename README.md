@@ -13,9 +13,9 @@ Detailed specifications and features include:
 
 + Randomized selection of villains
 + Player budget system for hero selection
++ Villains can recharge their energy during combat
 + Efficient memory management
 + Flexibility and scalability
-+ Villains can recharge their energy during combat
 
 Players have a budget of $25 to spend on heroes to defeat a Viltrumite soldier invading Earth, similar to the game shown in the image below.
 
