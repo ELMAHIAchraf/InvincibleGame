@@ -1,8 +1,8 @@
 <h1 align="center">Guardians of Earth: Rise Against Viltrum</h1>
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/0bcc5d5c-d921-4c94-975b-285b2105d65a" width="400px" alt="Logo">
-</p>
+</div>
 
 ## Description
 "Guardians of Earth: Rise Against Viltrum" is a **JAVA-BASED** game designed using various **DESIGN PATTERNS**. In this game, players purchase heroes to battle formidable enemies in a richly detailed universe filled with adventure and challenges.
